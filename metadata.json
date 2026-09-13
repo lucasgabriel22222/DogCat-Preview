@@ -1,0 +1,6 @@
+{
+  "name": "DogCat Rações",
+  "description": "Loja de ração e produtos para pets em Arapongas - PR. Disk ração com entrega rápida, rações premium e super premium, granel e atendimento dedicado via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
